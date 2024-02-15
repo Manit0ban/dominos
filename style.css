@@ -5,3 +5,7 @@ body {
 #myCanvas {
     border: solid black 1px;
 }
+
+#earth {
+    display: none;
+}
