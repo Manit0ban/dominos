@@ -137,3 +137,10 @@ ctx.fill();
 ctx.font = "15px Arial";
 ctx.fillStyle = "white";
 ctx.fillText("Art by Rayan Ali", 850, 385);
+
+// IMAGE
+var earthImg = document.getElementById("earth");
+ctx.drawImage(earthImg, -10, 300, 90, 130);
+
+
+
